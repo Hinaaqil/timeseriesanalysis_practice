@@ -3,3 +3,8 @@ numpy
 matplotlib
 seaborn
 statsmodels
+scikit-learn
+
+#NN
+tensorflow
+keras
